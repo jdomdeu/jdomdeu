@@ -6,7 +6,7 @@
 
 ###
 
-<h2 align="left">About me</h2>
+<h2 align="left">About me 📍</h2>
 
 ###
 
@@ -37,5 +37,13 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo"  />
 </div>
+
+###
+
+<h2 align="left">Mi página web 🌐</h2>
+
+###
+
+<p align="left">https://jdomdeu.github.io</p>
 
 ###
