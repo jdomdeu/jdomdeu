@@ -1,7 +1,7 @@
 <h1 align="center">✨ Dedicado a quien lo encuentre 👀 ✨</h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" width="600" />
+  <img src="https://github.com/jdomdeu/jdomdeu/blob/main/joan.gif" width="600" />
 </p>
 
 ---
