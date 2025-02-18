@@ -35,7 +35,7 @@
 ## 📬 Donde puedes encontrarme  
 
 👾 **Itch.io:** [shuxyzz.itch.io](https://shuxyzz.itch.io/)  
-💼 **LinkedIn:** [linkedin.com/in/joandomenechdeusa](https://www.linkedin.com/in/joandomenechdeusa) 
+💼 **LinkedIn:** [linkedin.com/in/joandomenechdeusa](https://www.linkedin.com/in/joandomenechdeusa) <br>
 🐦 **Twitter:** [@shuxyzz](https://twitter.com/shuxyzz)  
 
 ---
