@@ -1,5 +1,4 @@
 <h1 align="center">✨ Dedicado a quien lo encuentre 👀 ✨</h1>
----
 
 ## 🏆 Sobre mí 📍
 
