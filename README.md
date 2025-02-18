@@ -1,49 +1,54 @@
-<h1 align="left">Dedicado a quien lo encuentre 👀</h1>
+<h1 align="center">✨ Dedicado a quien lo encuentre 👀 ✨</h1>
 
-###
+<p align="center">
+  <img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" width="600" />
+</p>
 
-<p align="left">Bienvenido/a a mi perfil. Espero que algo de lo que encuentres te sea útil</p>
+---
 
-###
+## 🏆 Sobre mí 📍
 
-<h2 align="left">About me 📍</h2>
+🎮 **Máster en Desarrollo y Programación de Videojuegos**  
+🎓 **Estudiante de Grado en Tecnología Digital y Multimedia (UPV)**  
+💡 Apasionado por el desarrollo de videojuegos, las experiencias interactivas y la tecnología en general.  
+🎯 Buscando siempre aprender y crear cosas increíbles.  
 
-###
+---
 
-<p align="left">🎮 Estudiando un Máster de Desarrollo y Programación de Videojuegos<br><br>🎓 Estudiante del Grado en Tecnología Digital y Multimedia en la UPV</p>
+## 🚀 Habilidades Técnicas  
 
-###
+### 🕹️ Game Development  
+  <img src="https://skillicons.dev/icons?i=unity" height="40" alt="Unity"/>  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="C#"/>  
 
-<h2 align="left">Skills</h2>
+### 💻 Software & Web  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="Flutter"/>
+  <img src="https://skillicons.dev/icons?i=docker" height="40" alt="Docker"/>
 
-###
+### 🎨 Diseño & Multimedia  
+  <img src="https://skillicons.dev/icons?i=ps" height="40" alt="Photoshop"/>
+  <img src="https://skillicons.dev/icons?i=pr" height="40" alt="Premiere Pro"/>
 
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=unity" height="40" alt="unity logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/arduino/00979D" height="40" alt="arduino logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ps" height="40" alt="adobephotoshop logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=pr" height="40" alt="adobepremierepro logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="flutter logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo"  />
-</div>
+---
 
-###
+## 🌟 Proyectos Destacados  
 
-<h2 align="left">Mi página web 🌐</h2>
+🔹 **[Proyecto 1 - Juego en Unity](#)** 🎮 - Descripción breve del proyecto.  
+🔹 **[Proyecto 2 - App Flutter](#)** 📱 - Explicación rápida del proyecto.  
+🔹 **[Proyecto 3 - Web con React](#)** 🌐 - De qué trata el proyecto.  
 
-###
+📸 *Puedes ver más proyectos en mi [portafolio](https://jdomdeu.github.io).*  
 
-<p align="left">https://jdomdeu.github.io</p>
+---
 
-###
+## 📬 ¡Hablemos!  
+
+📩 **Email:** [tucorreo@email.com](mailto:tucorreo@email.com)  
+💼 **LinkedIn:** [linkedin.com/in/tuusuario](https://linkedin.com/in/tuusuario)  
+🐦 **Twitter:** [@tuusuario](https://twitter.com/tuusuario)  
+
+---
+
+💙 *Si te ha servido algo de mi perfil, ¡déjame una estrella en mis repositorios!* ⭐  
