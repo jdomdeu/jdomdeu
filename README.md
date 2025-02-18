@@ -1,6 +1,6 @@
 <h1 align="center">✨ Dedicado a quien lo encuentre 👀 ✨</h1>
 
-## 🏆 Sobre mí 📍
+## 📍 Sobre mí 
 
 🎮 **Máster en Desarrollo y Programación de Videojuegos (UMA)**  
 🎓 **Estudiante de Grado en Tecnología Digital y Multimedia (UPV)**  
