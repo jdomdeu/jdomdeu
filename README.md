@@ -24,7 +24,7 @@
 
 ## 🌟 Proyectos Destacados  
 
-🔹 **[TFG - Pool Check](https://m.riunet.upv.es/handle/10251/209646)** 📱 - Aplicación móvil IoT para el mantenimiento automático de piscinas
+🔹 **[TFG - Pool Check](https://m.riunet.upv.es/handle/10251/209646)** 📱 - Aplicación móvil IoT para el mantenimiento automático de piscinas<br>
 🔹 **[Web Personal](https://jdomdeu.github.io)** 🌐 - Web con documentación y donde explico mis proyectos
   
 
