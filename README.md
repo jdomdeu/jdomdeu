@@ -1,4 +1,13 @@
 <h1 align="center">✨ Dedicado a quien lo encuentre 👀 ✨</h1>
+---
+
+## 🏆 Sobre mí 📍
+
+🎮 **Máster en Desarrollo y Programación de Videojuegos (UMA)**  
+🎓 **Estudiante de Grado en Tecnología Digital y Multimedia (UPV)**  
+🎯 Disfruto aprendiendo y creando 
+
+---
 
 <p align="center">
   <img src="https://github.com/jdomdeu/jdomdeu/blob/main/joan.gif" width="300" />
@@ -6,31 +15,18 @@
 
 ---
 
-## 🏆 Sobre mí 📍
-
-🎮 **Máster en Desarrollo y Programación de Videojuegos**  
-🎓 **Estudiante de Grado en Tecnología Digital y Multimedia (UPV)**  
-💡 Apasionado por el desarrollo de videojuegos, las experiencias interactivas y la tecnología en general.  
-🎯 Buscando siempre aprender y crear cosas increíbles.  
-
----
-
 ## 🚀 Habilidades Técnicas  
 
 ### 🕹️ Game Development  
-  <img src="https://skillicons.dev/icons?i=unity" height="40" alt="Unity"/>  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="C#"/>  
+  <img src="https://skillicons.dev/icons?i=unity" height="40" alt="Unity"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="C#"/> 
+   
 
 ### 💻 Software & Web  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="Flutter"/>
-  <img src="https://skillicons.dev/icons?i=docker" height="40" alt="Docker"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="Flutter"/> <img src="https://skillicons.dev/icons?i=docker" height="40" alt="Docker"/>
 
 ### 🎨 Diseño & Multimedia  
-  <img src="https://skillicons.dev/icons?i=ps" height="40" alt="Photoshop"/>
-  <img src="https://skillicons.dev/icons?i=pr" height="40" alt="Premiere Pro"/>
-
+  <img src="https://skillicons.dev/icons?i=ps" height="40" alt="Photoshop"/> <img src="https://skillicons.dev/icons?i=pr" height="40" alt="Premiere Pro"/>
+  
 ---
 
 ## 🌟 Proyectos Destacados  
