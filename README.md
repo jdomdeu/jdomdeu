@@ -9,12 +9,6 @@
 
 ---
 
-<p align="center">
-  <img src="https://github.com/jdomdeu/jdomdeu/blob/main/joan.gif" width="300" />
-</p>
-
----
-
 ## 🚀 Habilidades Técnicas  
 
 ### 🕹️ Game Development  
@@ -25,26 +19,29 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="Flutter"/> <img src="https://skillicons.dev/icons?i=docker" height="40" alt="Docker"/>
 
 ### 🎨 Diseño & Multimedia  
-  <img src="https://skillicons.dev/icons?i=ps" height="40" alt="Photoshop"/> <img src="https://skillicons.dev/icons?i=pr" height="40" alt="Premiere Pro"/>
+  <img src="https://github.com/jdomdeu/jdomdeu/blob/main/DaVinci_Resolve_Studio.png" height="40" alt="DaVinci Resolve"/><img src="https://skillicons.dev/icons?i=ps" height="40" alt="Photoshop"/> <img src="https://skillicons.dev/icons?i=pr" height="40" alt="Premiere Pro"/>
   
 ---
 
 ## 🌟 Proyectos Destacados  
 
-🔹 **[Proyecto 1 - Juego en Unity](#)** 🎮 - Descripción breve del proyecto.  
-🔹 **[Proyecto 2 - App Flutter](#)** 📱 - Explicación rápida del proyecto.  
-🔹 **[Proyecto 3 - Web con React](#)** 🌐 - De qué trata el proyecto.  
+🔹 **[TFG - Pool Check](https://m.riunet.upv.es/handle/10251/209646)** 📱 - Aplicación móvil IoT para el mantenimiento automático de piscinas
+🔹 **[Web Personal](https://jdomdeu.github.io)** 🌐 - Web con documentación y donde explico mis proyectos
+  
 
-📸 *Puedes ver más proyectos en mi [portafolio](https://jdomdeu.github.io).*  
-
----
-
-## 📬 ¡Hablemos!  
-
-📩 **Email:** [tucorreo@email.com](mailto:tucorreo@email.com)  
-💼 **LinkedIn:** [linkedin.com/in/tuusuario](https://linkedin.com/in/tuusuario)  
-🐦 **Twitter:** [@tuusuario](https://twitter.com/tuusuario)  
+📸 *Puedes ver más proyectos en mi [web](https://jdomdeu.github.io).*  
 
 ---
 
-💙 *Si te ha servido algo de mi perfil, ¡déjame una estrella en mis repositorios!* ⭐  
+## 📬 Donde puedes encontrarme  
+
+👾 **Itch.io:** [shuxyzz.itch.io](https://shuxyzz.itch.io/)  
+💼 **LinkedIn:** [linkedin.com/in/joandomenechdeusa](www.linkedin.com/in/joandomenechdeusa)  
+🐦 **Twitter:** [@shuxyzz](https://twitter.com/shuxyzz)  
+
+---
+
+<p align="center">
+  <img src="https://github.com/jdomdeu/jdomdeu/blob/main/joan.gif" width="300" />
+</p>
+
